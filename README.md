@@ -1,3 +1,4 @@
 # git_tutorial
-it is used for git tutorial\n
+it is used for git tutorial
+<br>
 author: nurnahinnishad
